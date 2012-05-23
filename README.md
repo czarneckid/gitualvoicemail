@@ -11,3 +11,7 @@ It's like voicemail, but for your GitHub project
 * Modify URLs powering your app accordingly, e.g. `http://gitualvoicemail.herokuapp.com`.
 * Sign up for a Tropo phone number in your area code.
 * Call your GitHub repository and have Tropo read the last 5 commits back to you!
+
+## License
+
+MIT. See LICENSE.txt for details.
